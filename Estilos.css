@@ -1,0 +1,58 @@
+body {
+  background-repeat: no-repeat;
+  background-image: url(Fondo.JPG);
+  background-size: contain;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  
+ 
+}
+h1 {
+  text-align: center;
+  background-color: transparent;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.Contenedor {
+  border: 3px solid gray;
+  width: 500px;
+  height: 500px;
+  margin: auto;
+  padding: 50px;
+  box-shadow: 10px;
+  background: rgba(0, 0, 0, 0.2);
+}
+
+.Imagen {
+  display: block;
+  border-radius: 50%;
+  width: 190px;
+  height: 190px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+p {
+  text-align: center;
+  font-family: cursive;
+  color: white;
+  font-size: 15px;
+  width: 250px;
+  height: 15px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  font-family: cursive;
+}
+
+.Iconos{
+    border: 1px solid whitesmoke;
+    width: 15px;
+    height: 15px;
+    padding: 10px;
+    
+
+
+
+}
